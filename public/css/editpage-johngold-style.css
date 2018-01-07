@@ -1,0 +1,416 @@
+/* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: #111; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a.jg-sidenav-editmode {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 14px;
+    color: #fff;
+    display: block;
+    transition: 0.3s
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a.jg-sidenav-editmode:hover, .offcanvas a.jg-sidenav-editmode:focus{
+    color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+    transition: margin-left .5s;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a.jg-sidenav-editmode {font-size: 14px;}
+}
+
+.opennav{
+  font-size: 35px;
+  color: #ffae00;
+  cursor: pointer;
+  padding: 15px;
+}
+.opennav:hover{
+  color: #fff;
+}
+.editpage-nav{
+  position: fixed;
+  width: 100%;
+  padding: 6px;
+  background-color: #000;
+  z-index: 100;
+}
+.exitedit{
+  float: right;
+  
+  margin-right: 15px;
+}
+.exitedit a{
+  font-size: 30px;
+  color: #ff0000;
+}
+.exitedit a:hover{
+  color: #fff;
+}
+.modal-title{
+  font-size: 14px;
+}
+/*
+button.accordion {
+    background-color: #111;
+    color: #fff;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    border-bottom: solid 1px #818181;
+    outline: none;
+    transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+/*button.accordion.active, button.accordion:hover {
+    background-color: #fff;
+    color: #111;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+/*div.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+button.accordion:after {
+    font-family: FontAwesome;
+    content: "\f0d7";
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+}
+
+button.accordion.active:after {
+    font-family: FontAwesome;
+    content: "\f0d8";
+}*/
+
+/******
+Multi level accordion
+******/
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, main {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.cd-accordion-menu {
+  width: 100%;
+  max-width: 600px;
+  padding-left: 10px;
+}
+.cd-accordion-menu ul {
+  /* by default hide all sub menus */
+  display: none;
+  padding-left: 10px;
+}
+.cd-accordion-menu li {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.cd-accordion-menu .johngold-edit-page-checkbox {
+  /* hide native checkbox */
+  position: absolute;
+  opacity: 0;
+}
+.cd-accordion-menu .johngold-edit-page-label, .cd-accordion-menu a.jg-sidenav-editmode {
+  position: relative;
+  display: block;
+  padding: 10px 0px 10px 0px;
+  font-size: 24px;
+  background: #111;
+  box-shadow: inset 0 -1px #555960;
+  color: #ffffff;
+  margin-bottom: 0;
+}
+.cd-accordion-menu li label:after {
+  font-family: FontAwesome;
+  content: "\f0d7";
+  right: 15px;
+}
+
+.no-touch .cd-accordion-menu label:hover, .no-touch .cd-accordion-menu a.jg-sidenav-editmode:hover {
+  background: #52565d;
+}
+.cd-accordion-menu label::before, .cd-accordion-menu label::after, .cd-accordion-menu a::after {
+  /* icons */
+  content: '';
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.cd-accordion-menu label {
+  cursor: pointer;
+}
+.cd-accordion-menu label::before, .cd-accordion-menu label::after {
+  background-image: url(../img/cd-icons.svg);
+  background-repeat: no-repeat;
+}
+.cd-accordion-menu label::before {
+  /* arrow icon */
+  left: 18px;
+  background-position: 0 0;
+  -webkit-transform: translateY(-50%) rotate(-90deg);
+  -moz-transform: translateY(-50%) rotate(-90deg);
+  -ms-transform: translateY(-50%) rotate(-90deg);
+  -o-transform: translateY(-50%) rotate(-90deg);
+  transform: translateY(-50%) rotate(-90deg);
+}
+.cd-accordion-menu label::after {
+  /* folder icons */
+  background-position: -16px 0;
+}
+.cd-accordion-menu a::after {
+  /* image icon */
+  background: url(../img/cd-icons.svg) no-repeat -48px 0;
+}
+.cd-accordion-menu input[type=checkbox]:checked + label::before {
+  /* rotate arrow */
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.cd-accordion-menu input[type=checkbox]:checked + label::after {
+  /* show open folder icon if item is checked */
+  background-position: -32px 0;
+}
+.cd-accordion-menu input[type=checkbox]:checked + label + ul,
+.cd-accordion-menu input[type=checkbox]:checked + label:nth-of-type(n) + ul {
+  /* use label:nth-of-type(n) to fix a bug on safari (<= 8.0.8) with multiple adjacent-sibling selectors*/
+  /* show children when item is checked */
+  display: block;
+  padding-left: 10px;
+}
+.cd-accordion-menu ul label,
+.cd-accordion-menu ul a {
+  box-shadow: inset 0 -1px #41444a;
+  padding-left: 0px;
+}
+.no-touch .cd-accordion-menu ul label:hover, .no-touch
+.cd-accordion-menu ul a:hover {
+  background: #3c3f45;
+}
+.cd-accordion-menu > li:last-of-type > label,
+.cd-accordion-menu > li:last-of-type > a,
+.cd-accordion-menu > li > ul > li:last-of-type label,
+.cd-accordion-menu > li > ul > li:last-of-type a {
+  box-shadow: none;
+}
+.cd-accordion-menu ul label::before {
+  
+}
+.cd-accordion-menu ul label::after,
+.cd-accordion-menu ul a::after {
+  
+}
+.cd-accordion-menu ul ul label,
+.cd-accordion-menu ul ul a {
+  padding-left: 0;
+}
+.cd-accordion-menu ul ul label::before {
+  
+}
+.cd-accordion-menu ul ul label::after,
+.cd-accordion-menu ul ul a::after {
+  
+}
+.cd-accordion-menu ul ul ul label,
+.cd-accordion-menu ul ul ul a {
+  padding-left: 0;
+}
+.cd-accordion-menu ul ul ul label::before {
+  
+}
+.cd-accordion-menu ul ul ul label::after,
+.cd-accordion-menu ul ul ul a::after {
+  
+}
+@media only screen and (min-width: 600px) {
+  .cd-accordion-menu label, .cd-accordion-menu a.jg-sidenav-editmode {
+    padding: 10px 0px 10px 0px;
+    font-size: 14px;
+  }
+  .cd-accordion-menu label::before {
+    
+  }
+  .cd-accordion-menu label::after {
+    
+  }
+  .cd-accordion-menu ul label,
+  .cd-accordion-menu ul a.jg-sidenav-editmode {
+    padding-left: 0px;
+  }
+  .cd-accordion-menu ul label::before {
+      }
+  .cd-accordion-menu ul label::after,
+  .cd-accordion-menu ul a::after {
+    
+  }
+  .cd-accordion-menu ul ul label,
+  .cd-accordion-menu ul ul a {
+    padding-left: 0;
+  }
+  .cd-accordion-menu ul ul label::before {
+    
+  }
+  .cd-accordion-menu ul ul label::after,
+  .cd-accordion-menu ul ul a::after {
+    
+  }
+  .cd-accordion-menu ul ul ul label,
+  .cd-accordion-menu ul ul ul a {
+    padding-left: 0;
+  }
+  .cd-accordion-menu ul ul ul label::before {
+    
+  }
+  .cd-accordion-menu ul ul ul label::after,
+  .cd-accordion-menu ul ul ul a::after {
+    
+  }
+}
+.cd-accordion-menu.animated label::before {
+  /* this class is used if you're using jquery to animate the accordion */
+  -webkit-transition: -webkit-transform 0.3s;
+  -moz-transition: -moz-transform 0.3s;
+  transition: transform 0.3s;
+}
+
+
+/******
+Edit page modal
+******/
+
+.edit-content-modal-left{
+  border-right: solid 1px #e9ecef;
+}
+
+@media (min-width: 992px){
+  .modal-lg {
+      max-width: 1000px !important;
+  }
+}
+
+.edit-content-modal-left a{
+  color: #007bff;
+}
+
+.edit-content-modal-left a:hover{
+  color: #007bff;
+}
+
+.edit-content-modal-right .johngold-edit-page-checkbox{
+  font-family: FontAwesome;
+  content: "\f00c";
+}
+
+input[type=checkbox].johngold-edit-page-checkbox { 
+  display:none; 
+
+  } /* to hide the checkbox itself */
+input[type=checkbox].johngold-edit-page-checkbox + label:before {
+  font-family: FontAwesome;
+  content: "\f00c";
+  
+  letter-spacing: 5px;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+input[type=checkbox].johngold-edit-page-checkbox + label:before { 
+  color: #999; 
+  } /* unchecked icon */
+
+input[type=checkbox].johngold-edit-page-checkbox:checked + label:before { 
+color: #22ff00; 
+} /* checked icon */
+
+.edit-content-modal-right label{
+  margin-right: 70px;
+}
+
+/*******
+Navigation Checkbox
+*******/
+
+.jg-checkbox-show{
+  height: 200px;
+  width: 100%;
+  overflow: auto;
+}
+
+.jg-checkbox-show .checkbox label{
+  padding: 0;
+}
+
+.jg-setup-radiob{
+  padding: 12px;
+}
