@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 07, 2018 at 10:04 AM
+-- Generation Time: Jan 20, 2018 at 11:21 AM
 -- Server version: 10.1.9-MariaDB
 -- PHP Version: 5.6.15
 
@@ -183,7 +183,7 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (22, 8, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-11-15 06:25:26', '2017-11-15 06:25:26'),
 (23, 8, 3, 'Logo', 'final logo biyahe.png', NULL, NULL, NULL, NULL, '2017-11-15 06:25:26', '2017-11-15 06:25:38'),
 (25, 9, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-11-15 06:25:45', '2017-11-15 06:25:45'),
-(26, 9, 3, 'Logo', 'Golden Stargate Approve Logo.jpg', NULL, NULL, NULL, NULL, '2017-11-15 06:25:46', '2017-11-15 06:26:12'),
+(26, 9, 3, 'Logo', 'Flash Cargo.png', NULL, NULL, NULL, NULL, '2017-11-15 06:25:46', '2018-01-18 18:28:28'),
 (28, 10, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-11-15 06:29:18', '2017-11-15 06:29:18'),
 (29, 10, 3, 'Logo', 'Sure Secure.png', NULL, NULL, NULL, NULL, '2017-11-15 06:29:18', '2017-11-15 06:29:34'),
 (31, 11, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-11-15 06:30:11', '2017-11-15 06:30:11'),
@@ -203,9 +203,9 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (47, 17, 3, 'Logo', 'JOAN.jpg', NULL, NULL, NULL, NULL, '2017-11-16 09:53:13', '2017-11-27 05:00:59'),
 (48, 17, 15, 'Company', 'JOHN GROUP OF COMPANIES', NULL, NULL, NULL, NULL, '2017-11-16 09:53:13', '2017-11-27 06:14:05'),
 (49, 17, 16, 'Position', 'EXECUTIVE ASSISTANT TO THE PRESIDENT', NULL, NULL, NULL, NULL, '2017-11-16 09:53:13', '2017-11-27 06:14:05'),
-(50, 18, 3, 'Logo', 'MARIBEL.jpg', NULL, NULL, NULL, NULL, '2017-11-16 09:54:14', '2017-11-16 09:54:45'),
-(51, 18, 15, 'Company', 'CARGO KING COURIER SERVICES CORP.', NULL, NULL, NULL, NULL, '2017-11-16 09:54:14', '2017-11-27 06:14:28'),
-(52, 18, 16, 'Position', 'SALES MANAGER', NULL, NULL, NULL, NULL, '2017-11-16 09:54:14', '2017-11-27 06:14:28'),
+(50, 18, 3, 'Logo', 'JANET.jpg', NULL, NULL, NULL, NULL, '2017-11-16 09:54:14', '2018-01-18 18:21:59'),
+(51, 18, 15, 'Company', 'CARGO KING COURIER SERVICES CORP.', NULL, NULL, NULL, NULL, '2017-11-16 09:54:14', '2018-01-18 18:21:59'),
+(52, 18, 16, 'Position', 'SALES MANAGER', NULL, NULL, NULL, NULL, '2017-11-16 09:54:14', '2018-01-18 18:21:59'),
 (53, 19, 3, 'Logo', 'TESSA.jpg', NULL, NULL, NULL, NULL, '2017-11-16 09:55:03', '2017-11-27 05:04:58'),
 (54, 19, 15, 'Company', 'JOHN GOLD CARGO FORWARDER CORP.', NULL, NULL, NULL, NULL, '2017-11-16 09:55:03', '2017-11-27 06:14:53'),
 (55, 19, 16, 'Position', 'INTERNAL AUDITOR FOR CARGO', NULL, NULL, NULL, NULL, '2017-11-16 09:55:03', '2017-11-27 06:14:53'),
@@ -264,7 +264,7 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (116, 8, 28, 'Contact-logo', 'logo.png', NULL, NULL, NULL, NULL, '2017-11-24 03:25:12', '2017-11-24 03:25:38'),
 (118, 9, 9, 'Navigation', 'jg_affiliation_nav', '', NULL, '', '', '2017-11-24 03:33:04', '2017-11-27 03:05:51'),
 (119, 9, 13, 'Affiliation', 'jg_pagelist', '3', NULL, '3', 'yes', '2017-11-24 03:33:04', '2017-11-27 02:36:46'),
-(120, 9, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-11-24 03:33:04', '2017-11-24 03:34:21'),
+(120, 9, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-11-24 03:33:04', '2018-01-18 18:29:49'),
 (121, 9, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-11-24 03:33:04', '2017-11-24 03:33:04'),
 (122, 9, 28, 'Contact-logo', 'logo.png', NULL, NULL, NULL, NULL, '2017-11-24 03:33:04', '2017-11-24 03:34:31'),
 (124, 10, 9, 'Navigation', 'jg_affiliation_nav', '0', NULL, '', '', '2017-11-24 03:36:33', '2017-11-27 03:06:33'),
@@ -320,7 +320,7 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (185, 6, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 02:57:27', '2017-11-27 02:57:41'),
 (186, 7, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 02:58:08', '2017-11-27 02:58:21'),
 (187, 8, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 02:58:44', '2017-11-27 02:58:57'),
-(188, 9, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 02:59:18', '2017-11-27 02:59:34'),
+(188, 9, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 02:59:18', '2018-01-18 18:29:49'),
 (189, 10, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 02:59:49', '2017-11-27 03:00:01'),
 (190, 11, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 03:00:24', '2017-11-27 03:00:34'),
 (191, 12, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 03:00:53', '2017-11-27 03:01:34'),
@@ -328,7 +328,7 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (193, 14, 32, 'Email', 'liza.cajipe@johngoldgroup.com', NULL, NULL, NULL, NULL, '2017-11-27 06:04:22', '2017-11-27 06:04:38'),
 (194, 15, 32, 'Email', 'len.briones@johngoldgroup.com', NULL, NULL, NULL, NULL, '2017-11-27 06:13:30', '2017-11-27 06:13:34'),
 (195, 17, 32, 'Email', 'joan.catalan@johngoldgroup.com', NULL, NULL, NULL, NULL, '2017-11-27 06:13:47', '2017-11-27 06:14:05'),
-(196, 18, 32, 'Email', 'janet.radovan@cargoking.com.ph', NULL, NULL, NULL, NULL, '2017-11-27 06:14:24', '2017-11-27 06:14:28'),
+(196, 18, 32, 'Email', 'janet.radovan@cargoking.com.ph', NULL, NULL, NULL, NULL, '2017-11-27 06:14:24', '2018-01-18 18:21:59'),
 (197, 19, 32, 'Email', 'tessa.tancontian@johngoldgroup.com', NULL, NULL, NULL, NULL, '2017-11-27 06:14:49', '2017-11-27 06:14:53'),
 (198, 20, 32, 'Email', 'bambi.ronquillo@johngoldgroup.com', NULL, NULL, NULL, NULL, '2017-11-27 06:15:10', '2017-11-27 06:15:14'),
 (199, 21, 32, 'Email', 'erliza.baldonado@johngoldgroup.com', NULL, NULL, NULL, NULL, '2017-11-27 06:15:26', '2017-11-27 06:15:48'),
@@ -344,11 +344,11 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (209, 31, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-11-27 09:05:05', '2017-11-27 09:05:05'),
 (210, 31, 28, 'Contact-logo', 'logo.png', NULL, NULL, NULL, NULL, '2017-11-27 09:05:05', '2017-11-27 09:17:22'),
 (211, 31, 3, 'Logo', 'CK Logo.png', NULL, NULL, NULL, NULL, '2017-11-27 10:18:38', '2017-11-27 10:19:51'),
-(212, 32, 1, 'Title', 'List of branches', NULL, NULL, NULL, NULL, '2017-11-27 10:24:39', '2017-11-27 10:24:57'),
+(212, 32, 1, 'Title', 'List of branches', NULL, NULL, NULL, NULL, '2017-11-27 10:24:39', '2018-01-18 18:38:44'),
 (213, 32, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-11-27 10:24:39', '2017-11-27 10:24:39'),
 (214, 32, 3, 'Logo', 'CK Logo.png', NULL, NULL, NULL, NULL, '2017-11-27 10:24:39', '2017-11-27 10:25:11'),
 (215, 32, 9, 'Navigation', 'jg_affiliation_nav', '0', NULL, '', '', '2017-11-27 10:24:39', '2017-11-27 10:25:22'),
-(216, 32, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-11-27 10:24:39', '2017-11-27 10:25:35'),
+(216, 32, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-11-27 10:24:39', '2018-01-18 18:38:44'),
 (217, 32, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-11-27 10:24:39', '2017-11-27 10:24:39'),
 (218, 32, 28, 'Contact-logo', 'logo.png', NULL, NULL, NULL, NULL, '2017-11-27 10:24:39', '2017-11-27 10:26:10'),
 (220, 37, 1, 'Title', 'List of branches', NULL, NULL, NULL, NULL, '2017-11-27 10:39:48', '2017-11-27 10:40:02'),
@@ -393,11 +393,11 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (259, 38, 34, 'Newsletter', 'jg_newsletter_list', '7', NULL, '9', 'yes', '2017-12-05 07:32:32', '2017-12-05 07:38:30'),
 (269, 30, 32, 'Email', 'support@dcideasandsolutions.com', NULL, NULL, NULL, NULL, '2017-12-05 11:35:37', '2017-12-05 11:40:01'),
 (270, 40, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2018-01-06 01:16:05', '2018-01-06 01:16:05'),
-(271, 40, 3, 'Logo', 'Flash Cargo.png', NULL, NULL, NULL, NULL, '2018-01-06 01:16:06', '2018-01-06 01:42:58'),
-(272, 40, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2018-01-06 01:16:08', '2018-01-06 01:43:00'),
+(271, 40, 3, 'Logo', 'Golden Stargate Approve Logo.jpg', NULL, NULL, NULL, NULL, '2018-01-06 01:16:06', '2018-01-18 18:28:37'),
+(272, 40, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2018-01-06 01:16:08', '2018-01-18 18:28:37'),
 (273, 40, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2018-01-06 01:16:10', '2018-01-06 01:16:10'),
 (274, 40, 28, 'Contact-logo', 'JGGC (2).png', NULL, NULL, NULL, NULL, '2018-01-06 01:16:12', '2018-01-06 01:43:02'),
-(275, 40, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2018-01-06 01:16:13', '2018-01-06 01:43:02'),
+(275, 40, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2018-01-06 01:16:13', '2018-01-18 18:28:37'),
 (276, 40, 9, 'Navigation', 'jg_affiliation_nav', '0', NULL, '', '', '2018-01-06 01:46:52', '2018-01-06 01:47:19'),
 (277, 40, 13, 'Affiliation', 'jg_pagelist', '3', NULL, '3', 'yes', '2018-01-06 01:54:34', '2018-01-06 01:55:06'),
 (278, 41, 1, 'Title', 'List of branches', NULL, NULL, NULL, NULL, '2018-01-06 13:13:23', '2018-01-06 13:31:21'),
@@ -481,7 +481,7 @@ INSERT INTO `pagemains` (`page_id`, `name`, `template`, `pagetype_id`, `created_
 (6, 'John Gold Cargo Forwarder', 'affiliation', 3, '2017-11-14 22:53:15', '2017-11-14 22:53:53'),
 (7, 'Cargo King Courier Services Corporation', 'affiliation', 3, '2017-11-14 22:53:45', '2017-11-14 22:53:45'),
 (8, 'Biyahe.com.ph Travel Portal Corporation', 'affiliation', 3, '2017-11-14 22:54:32', '2017-11-14 22:54:32'),
-(9, 'Golden Stargate Solutions Inc.', 'affiliation', 3, '2017-11-14 22:54:48', '2017-11-14 22:54:48'),
+(9, 'FLASH CARGO LOGISTICS NETWORK, INC.', 'affiliation', 3, '2017-11-14 22:54:48', '2018-01-18 18:29:49'),
 (10, 'Sure Secure', 'affiliation', 3, '2017-11-15 06:27:19', '2017-11-15 06:27:19'),
 (11, 'Golden Galleon', 'affiliation', 3, '2017-11-15 06:27:34', '2017-11-15 06:27:34'),
 (12, 'Rush Cargo', 'affiliation', 3, '2017-11-15 06:27:53', '2017-11-15 06:27:53'),
@@ -489,7 +489,7 @@ INSERT INTO `pagemains` (`page_id`, `name`, `template`, `pagetype_id`, `created_
 (14, 'LIZA L. CAJIPE', 'team', 4, '2017-11-16 09:38:48', '2017-11-27 06:04:37'),
 (15, 'MARILEN T. BRIONES', 'team', 4, '2017-11-16 09:39:35', '2017-11-27 06:13:34'),
 (17, 'JOAN A. CATALAN', 'team', 4, '2017-11-16 09:39:58', '2017-11-27 06:14:05'),
-(18, 'JANET D. RADOVAN', 'team', 4, '2017-11-16 09:40:29', '2017-11-27 06:14:28'),
+(18, 'JANET D. RADOVAN', 'team', 4, '2017-11-16 09:40:29', '2018-01-18 18:21:59'),
 (19, 'TESSA P. TANCONTIAN', 'team', 4, '2017-11-16 09:40:51', '2017-11-27 06:14:53'),
 (20, 'BAMBI G. RONQUILLO', 'team', 4, '2017-11-16 09:41:15', '2017-11-27 06:15:14'),
 (21, 'Erliza R. Baldonado', 'team', 4, '2017-11-16 09:41:45', '2017-11-27 06:15:48'),
@@ -503,13 +503,13 @@ INSERT INTO `pagemains` (`page_id`, `name`, `template`, `pagetype_id`, `created_
 (29, 'Services', 'services', 0, '2017-11-24 09:40:29', '2017-11-24 09:40:29'),
 (30, 'Contact', 'contact', 0, '2017-11-24 09:41:17', '2017-11-24 09:41:17'),
 (31, 'Serviceable areas', 'location', 6, '2017-11-27 08:02:21', '2017-11-27 08:17:18'),
-(32, 'CK branches', 'location', 6, '2017-11-27 10:14:25', '2017-11-27 10:14:25'),
+(32, 'CK branches', 'location', 6, '2017-11-27 10:14:25', '2018-01-18 18:38:44'),
 (35, 'JGCF branches', 'location', 6, '2017-11-27 10:16:01', '2017-11-27 10:16:01'),
 (36, 'JGTTSC branches', 'location', 6, '2017-11-27 10:16:54', '2017-11-27 10:16:54'),
 (37, 'DSTI branches', 'location', 6, '2017-11-27 10:39:19', '2017-11-27 10:39:19'),
 (38, 'NEWS', 'newsletter', 0, '2017-12-05 00:11:31', '2017-12-05 03:04:01'),
 (39, 'FAQs', 'faq', 0, '2017-12-05 00:31:51', '2017-12-05 03:04:13'),
-(40, 'FLASH CARGO LOGISTICS NETWORK, INC.', 'affiliation', 3, '2018-01-06 01:13:07', '2018-01-06 01:42:52'),
+(40, 'Golden Stargate Solutions Inc.', 'affiliation', 3, '2018-01-06 01:13:07', '2018-01-18 18:28:37'),
 (41, 'Flash Cargo Branches', 'location', 6, '2018-01-06 13:10:13', '2018-01-06 13:31:21');
 
 -- --------------------------------------------------------
@@ -537,14 +537,14 @@ INSERT INTO `pagesubs` (`id`, `page_id`, `page_parent_id`, `created_at`, `update
 (6, 6, 1, '2017-11-14 22:53:15', '2017-11-14 22:53:54'),
 (7, 7, NULL, '2017-11-14 22:53:45', '2017-11-14 22:53:45'),
 (8, 8, NULL, '2017-11-14 22:54:32', '2017-11-14 22:54:32'),
-(9, 9, NULL, '2017-11-14 22:54:48', '2017-11-14 22:54:48'),
+(9, 9, NULL, '2017-11-14 22:54:48', '2018-01-18 18:29:49'),
 (10, 10, NULL, '2017-11-15 06:27:19', '2017-11-15 06:27:19'),
 (11, 11, NULL, '2017-11-15 06:27:34', '2017-11-15 06:27:34'),
 (12, 12, NULL, '2017-11-15 06:27:53', '2017-11-15 06:27:53'),
 (13, 13, NULL, '2017-11-15 06:29:52', '2017-11-15 06:29:52'),
 (14, 14, NULL, '2017-11-16 09:38:49', '2017-11-27 06:04:37'),
 (17, 17, NULL, '2017-11-16 09:39:58', '2017-11-27 06:14:05'),
-(18, 18, NULL, '2017-11-16 09:40:29', '2017-11-27 06:14:28'),
+(18, 18, NULL, '2017-11-16 09:40:29', '2018-01-18 18:21:59'),
 (19, 19, NULL, '2017-11-16 09:40:51', '2017-11-27 06:14:53'),
 (20, 20, NULL, '2017-11-16 09:41:15', '2017-11-27 06:15:14'),
 (21, 21, NULL, '2017-11-16 09:41:45', '2017-11-27 06:15:48'),
@@ -558,13 +558,13 @@ INSERT INTO `pagesubs` (`id`, `page_id`, `page_parent_id`, `created_at`, `update
 (29, 29, NULL, '2017-11-24 09:40:29', '2017-11-24 09:40:29'),
 (30, 30, NULL, '2017-11-24 09:41:18', '2017-11-24 09:41:18'),
 (31, 31, NULL, '2017-11-27 08:02:21', '2017-11-27 08:17:18'),
-(32, 32, NULL, '2017-11-27 10:14:25', '2017-11-27 10:14:25'),
+(32, 32, NULL, '2017-11-27 10:14:25', '2018-01-18 18:38:44'),
 (35, 35, NULL, '2017-11-27 10:16:01', '2017-11-27 10:16:01'),
 (36, 36, NULL, '2017-11-27 10:16:54', '2017-11-27 10:16:54'),
 (37, 37, NULL, '2017-11-27 10:39:19', '2017-11-27 10:39:19'),
 (38, 38, NULL, '2017-12-05 00:11:31', '2017-12-05 03:04:01'),
 (39, 39, NULL, '2017-12-05 00:31:51', '2017-12-05 03:04:13'),
-(40, 40, NULL, '2018-01-06 01:13:09', '2018-01-06 01:42:54'),
+(40, 40, NULL, '2018-01-06 01:13:09', '2018-01-18 18:28:37'),
 (41, 41, NULL, '2018-01-06 13:10:13', '2018-01-06 13:31:21');
 
 -- --------------------------------------------------------
@@ -664,7 +664,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `lname`, `fname`, `mname`, `img`, `level`, `change_code`, `stat`, `ol_stat`, `name`, `email`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'admin', 'admin', 'admin', 'logo.png', 3, 'Pab4G', 'active', 'Offline', 'admin', 'johnirvinudang@gmail.com', '$2y$10$dkzvHKygYDDhGehOWEjYDuBnIO3M75EKq.cVAh0OhDfr1IiAomE8i', 'zRwdsRUse0pGCjhZ4rMuRqW7Tl0VW2AzXIX3aXvnzn4O70hZO5FSchgC9SAO', '2017-11-30 08:31:28', '2018-01-06 01:08:48');
+(1, 'admin', 'admin', 'admin', 'logo.png', 3, 'Pab4G', 'active', 'Offline', 'admin', 'johnirvinudang@gmail.com', '$2y$10$dkzvHKygYDDhGehOWEjYDuBnIO3M75EKq.cVAh0OhDfr1IiAomE8i', 'zRwdsRUse0pGCjhZ4rMuRqW7Tl0VW2AzXIX3aXvnzn4O70hZO5FSchgC9SAO', '2017-11-30 08:31:28', '2018-01-19 16:59:56');
 
 --
 -- Indexes for dumped tables
