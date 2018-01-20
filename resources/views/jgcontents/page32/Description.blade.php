@@ -1,2 +1,220 @@
-<span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;"><font size="3">SATELLITE OUTLETS   DAVAO STATION</font></span><br>                                                                                                                
-                                                    <div><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;"><font size="3"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">PACIFIC BLUE TRAVEL AND TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Door 9 Elena Arcade, </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Duterte St, Davao City</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Aida Avila</b> - Officer incharge - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 2225257/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">aidaavila@yahoo.com</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">VOYAGERS SPHERE TRAVEL AND TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">2nd floor Lakitan Shopping Mall, </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">San Pedro St., Davao City</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Nila Ramal</b> - Proprietress - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 2262055/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">voyagerssphere@yahoo.com</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">EARL SALON AND TRAVEL SERVICES - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Kilometer 12 Catalunan Pequeno, </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Davao City</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">  - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Alama Barbichu</b> - Proprietress - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Mobile: 09187065351/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">abarbichu@yahoo.com</span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">CARPENTER'S TRAVEL - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">G/F Pelayo building Qurino Avenue corner, </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Camus Extension, Davao City</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Gilbert Alvarez</b> - Owner - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 2241058/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">alvarezgilbert@yahoo.com</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">HJD TRAVEL  AND TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Stall No. 3 Tropicana Fruits Bldg. Lanang, </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Davao City</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Desiree  Zabat -</b> Elumba - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 233-0211/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;">hjdtravelnetworktours@yahoo.com</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">PRINCE GABRIEL PAWNSHOP/ NEMO </span><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">TRAVEL AND TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Arial; text-align: center; white-space: pre-wrap;">Denia Bldg. Km. 12 Sasa, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Erma M. Ortiz - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 235-8941/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;">ermaortiz0419@yahoo.com</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">WORLD DREAMLAND TRAVEL AND TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Km. 12 Mc Arthur Highway Corner Iwha, </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Toril, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Eva C. Corcino - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 295-2292 or 284-1366/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;">worlddreamland@yahoo.com</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">PORTSKY TRAVEL AND TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Skyline Catalunan Pequino, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Alecia Solon - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 2953028/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;">portskytravel@yahoo.com</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">CACAO DE DAVAO - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">San Pedro Extension St. Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Elaine Lim - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Mobile: 09227592400/cacaodedavao@yahoo.com</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; text-decoration-line: underline; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Arial; font-weight: 700; text-align: center; white-space: pre-wrap;">INFINTY TRAVEL CO. LTD. - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">2/F LAM building, F. Torres St., </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Baranggay 11-B - </span><span style="color: rgb(0, 0, 0); font-family: Arial; text-align: center; white-space: pre-wrap;"><b>Jenny Medalla - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 226 4209/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">jenny-medalla@yahoo.com</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">ASIA GATEWAY TRAVEL - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Door 1 Sarona building, </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Sandawa Road, Matina, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Maria Milagros Joaquin - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 298 5418/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">teefive_mktg@yahoo.com</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">PCCA PLASTIC CENTER - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">LGU building, </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Public Market, Makilala Cotabato - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Ponciano Do - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 0920 954 6751/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">pcca0645@gmail.com</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">SURELITE TRAVEL AND TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">115 Picon corner Boltom sts. Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Ruben Neri - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 082 2861599/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Mobile:09189112433/</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">surelitetraveltours@gmail.com</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">GLASS WORLD - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Mc Arthur Highway, Matina davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Liza Arabia - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">mobile:09173039989</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">FORMOZA TICKETING , CARGO AND </span><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;"> ALLIED SERVICES - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Dona Segunda building, </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Ponciano St, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>Virginia Camacho - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Mobile: 939 5135246</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">CK GAISANO MALL - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Ground Floor, Gaisano Mall, Bajada, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>ORGANIC OFFICE - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 082 224-6532</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">Buencam 5 Travel and Tours Services, Inc. - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Block 3, Stall 14&amp;15, Central Market, Poblacion, Panabo, Davao Del Sur - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>CAMILLE ELLISE - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Tel.: 084 823-1319</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">JGV Travel and Tours - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Km. 5, Buhangin, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>VANIZA - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Mobile 09496711776</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">OS REMITTANCE CENTER - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Dr 6 GROUNF FLOOR BDLG 1 GOLDEN MATINA COMPLEX MC ARTHUR HIGHWAY 76-1 BUCANA DAVAO CITY - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>GLEN LORD CABANOG</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Mobile: 09757468750</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">JMG TRAVEL AND TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Door 2 paseo Grande, Catalunan Grande, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>GRANTH ANTHONY</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: 082 287-1960</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">M and D Prize Food Phil., Inc - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Km. 5 Ramon Magsaysay, Calinan, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>MICHAEL TAN</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: 082 298-7280</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">SINK OR SWIM AQUA PRODUCT - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">303/304 Palma Gil St. Brgy. 34-D Poblacion District Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>CHRISTINE</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Mobile: 09082561939</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">THE COVERAGE - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">159, A. Pichon St, Barangay 2-A, Davao - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>ENRIQUE CHU</b> -</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> Tel.: 082 284-3497</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">LAHIRA LAROME INTERNATIONAL INC. - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">BLDG1 DR2 KRISFER ARCADE C BANGOY ST. BRGY 34D POBLACION - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>CHAT TORREVILLAS</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: 082 2244986</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">Sophia Travel Agency - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">D2 2/D Matina Aplaya Arcade Purok Malinawon Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>FATIMA BISTON</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Mobile: 09205535280</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">CLARV Travel - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Dr11 Sienes Bldg., Mandug Buhangin, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>CHARMAVIRLOU ARMONIA</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: 082 287-8169</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">SouthShore Divers - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">No. 15 Garnet St. Marfori Height Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>EMMANUEL STA. CRUZ</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: 082 300-2574</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">Bonne Vue Travel Ventures - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Bloc 8 Lot 10-12 Sta. Cecilia St. Cabantian Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>CRISTINA FRANCISCO</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: 082 321-6893</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">JPVA HELLO WORLD TOUR, INC. - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">PNJK Compound Alfonso Angliongto Avenue Lanang, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>ANGEL NIEGAS</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: (Damosa) 082 305-6355 (Bajada) 082 300-7662</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">Traveloft Travel and Tours Inc. - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Door 7 Valgosons bldg., Va;encia Arcade, Bonifacio St., Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>FLOYD BASCONES</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: 082 222-3562</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">GUARDIAN ANGEL TRAVEL &amp; TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">unit c fairlanes bowling center f torres st. davao city - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>DIANA ILAYA</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: 082 305-2606</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">DSJ BUSINESS CENTER - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">TALISAY HIGHWAY, ECOLAND DAVAO CITY - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>DENNIS BANDOJO</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.: 082 286-2529</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">SRB EXPRESS PADALA - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">block24 lot26 phase1 deca homes indangan davao - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>CLAIRE SABANDAL</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.:082 287-6948</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">VGC DREAM TRAVEL AND TOURS - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Unit 52-53 AJK 3G Corp. Bldg Country Homes - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>VICENTE CANONERA</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Tel.:  082 321-6854</span></font></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; font-weight: 700; text-align: center; white-space: pre-wrap;">DDN TICKETING SERVICES - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">door #3 Ermelys Complex Agton St. 8025 Juction Digos Section Road Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>GENEVIEVE ESCOTON</b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"> - Mobile: 09197884273</span></font></div>
+
+<table>
+	<tr>
+		<td><b>PACIFIC BLUE TRAVEL AND TOURS</b></td>
+		<td>Door 9 Elena Arcade, Duterte St, Davao City, </td>
+		<td>Aida Avila - Officer incharge</td>
+		<td>Email : aidaavila@yahoo.com, Tel. no : 2225257</td>
+	</tr>
+	<tr>
+		<td><b>VOYAGERS SPHERE TRAVEL AND TOURS</b></td>
+		<td>2nd floor Lakitan Shopping Mall, San Pedro St., Davao City</td>
+		<td>Nila Ramal - Proprietress</td>
+		<td>Email : voyagerssphere@yahoo.com, Tel. no. 2262055</td>
+	</tr>
+	<tr>
+		<td><b>EARL SALON AND TRAVEL SERVICES</b></td>
+		<td>Kilometer 12 Catalunan Pequeno, Davao City</td>
+		<td>Alama Barbichu - Proprietress</td>
+		<td>Email :abarbichu@yahoo.com, Mobile no. 09187065351</td>
+	</tr>
+	<tr>
+		<td><b>CARPENTER'S TRAVEL</b></td>
+		<td>G/F Pelayo building Qurino Avenue corner, Camus Extension, Davao City</td>
+		<td>Gilbert Alvarez - Owner</td>
+		<td>Email : alvarezgilbert@yahoo.com, Tel. no. 2241058</td>
+	</tr>
+	<tr>
+		<td><b>HJD TRAVEL  AND TOURS</b></td>
+		<td>Stall No. 3 Tropicana Fruits Bldg. Lanang, Davao City</td>
+		<td>Desiree  Zabat – Elumba</td>
+		<td>Email:hjdtravelnetworktours@yahoo.com, Tel. No no. 233-0211</td>
+	</tr>
+	<tr>
+		<td><b>PRINCE GABRIEL PAWNSHOP/ NEMO TRAVEL AND TOURS</b></td>
+		<td>Denia Bldg. Km. 12 Sasa, Davao City</td>
+		<td>Erma M. Ortiz</td>
+		<td>Email: ermaortiz0419@yahoo.com, Tel. No. 235-8941</td>
+	</tr>
+	<tr>
+		<td><b>WORLD DREAMLAND TRAVEL AND TOURS</b></td>
+		<td>Km. 12 Mc Arthur Highway Corner Iwha, Toril, Davao City</td>
+		<td>Eva C. Corcino</td>
+		<td>Email: worlddreamland@yahoo.com, Tel. No. 295-2292 or 284-1366</td>
+	</tr>
+	<tr>
+		<td><b>JBI TRAVEL AND TOURS</b></td>
+		<td>JLA, Angliongto St. Ave-Mamay Road, Lanang, Davao City</td>
+		<td>Jeanette Butiong-Inis</td>
+		<td>Email:jbitravelandtours@yahoo.com, Tel. No. 300-2672</td>
+	</tr>
+	<tr>
+		<td><b>PORTSKY TRAVEL AND TOURS</b></td>
+		<td>Skyline Catalunan Pequino, Davao City</td>
+		<td>Alecia Solon</td>
+		<td>Email:portskytravel@yahoo.com, Tel no. 2953028</td>
+	</tr>
+	<tr>
+		<td><b>CACAO DE DAVAO</b></td>
+		<td>San Pedro Extension St. Davao City</td>
+		<td>Elaine Lim</td>
+		<td>Email: CACAODEDAVAO@YAHOO.COM, Tel. No. 09227592400</td>
+	</tr>
+	<tr>
+		<td><b>INFINTY TRAVEL CO. LTD.</b></td>
+		<td>2/F LAM building, F. Torres St., Baranggay 11-B</td>
+		<td>Jenny Medalla</td>
+		<td>Email : jenny-medalla@yahoo.com, Tel. No. : 226 4209</td>
+	</tr>
+	<tr>
+		<td><b>ASIA GATEWAY TRAVEL</b></td>
+		<td>Door 1 Sarona building, Sandawa Road, Matina, Davao City</td>
+		<td>Maria Milagros Joaquin</td>
+		<td>Email : teefive_mktg@yahoo.com, Tel no. 298 5418</td>
+	</tr>
+	<tr>
+		<td><b>PCCA PLASTIC CENTER</b></td>
+		<td>LGU building, Public Market, Makilala Cotabato</td>
+		<td>Ponciano Do</td>
+		<td>Email : pcca0645@gmail.com, Tel no. 0920 954 6751</td>
+	</tr>
+	<tr>
+		<td><b>SURELITE TRAVEL AND TOURS</b></td>
+		<td>115 Picon corner Boltom sts. Davao City</td>
+		<td>Ruben Neri</td>
+		<td>Email: surelitetraveltours@gmail.com, Mobile : 09189112433, Tel no. 082 2861599</td>
+	</tr>
+	<tr>
+		<td><b>GLASS WORLD</b></td>
+		<td>Mc Arthur Highway, Matina davao City</td>
+		<td>Liza Arabia</td>
+		<td>mobile no. 09173039989</td>
+	</tr>
+	<tr>
+		<td><b>FORMOZA TICKETING , CARGO AND  ALLIED SERVICES</b></td>
+		<td>Dona Segunda building, Ponciano St, Davao City</td>
+		<td>Virginia Camacho</td>
+		<td>Mobile no : 939 5135246</td>
+	</tr>
+	<tr>
+		<td><b>CK GAISANO MALL</b></td>
+		<td>Ground Floor, Gaisano Mall, Bajada, Davao City</td>
+		<td>ORGANIC OFFICE</td>
+		<td>Tel no. 082 224-6532</td>
+	</tr>
+	<tr>
+		<td><b>Buencam 5 Travel and Tours Services, Inc.</b></td>
+		<td>Block 3, Stall 14&15, Central Market, Poblacion, Panabo, Davao Del Sur</td>
+		<td>CAMILLE ELLISE</td>
+		<td>Tel no. 084 823-1319</td>
+	</tr>
+	<tr>
+		<td><b>JGV Travel and Tours</b></td>
+		<td>Km. 5, Buhangin, Davao City</td>
+		<td>VANIZA</td>
+		<td>Mobile: 09496711776</td>
+	</tr>
+	<tr>
+		<td><b>OS REMITTANCE CENTER</b></td>
+		<td>Dr 6 GROUNF FLOOR BDLG 1 GOLDEN MATINA COMPLEX MC ARTHUR HIGHWAY 76-1 BUCANA DAVAO CITY </td>
+		<td>GLEN LORD CABANOG</td>
+		<td>Mobile: 09757468750</td>
+	</tr>
+	<tr>
+		<td><b>JMG TRAVEL AND TOURS</b></td>
+		<td>Door 2 paseo Grande, Catalunan Grande, Davao City</td>
+		<td>GRANTH ANTHONY</td>
+		<td>Tel no. 082 287-1960</td>
+	</tr>
+	<tr>
+		<td><b>M and D Prize Food Phil., Inc</b></td>
+		<td>Km. 5 Ramon Magsaysay, Calinan, Davao City </td>
+		<td>MICHAEL TAN</td>
+		<td>Tel no. 082 298-7280</td>
+	</tr>
+	<tr>
+		<td><b>SINK OR SWIM AQUA PRODUCT</b></td>
+		<td>303/304 Palma Gil St. Brgy. 34-D Poblacion District Davao City</td>
+		<td>CHRISTINE</td>
+		<td>Mobile no. 09082561939</td>
+	</tr>
+	<tr>
+		<td><b>THE COVERAGE</b></td>
+		<td>159, A. Pichon St, Barangay 2-A, Davao</td>
+		<td>ENRIQUE CHU</td>
+		<td>Tel no. 082 284-3497</td>
+	</tr>
+	<tr>
+		<td><b>LAHIRA LAROME INTERNATIONAL INC.</b></td>
+		<td>BLDG1 DR2 KRISFER ARCADE C BANGOY ST. BRGY 34D POBLACION</td>
+		<td>CHAT TORREVILLAS</td>
+		<td>Tel no. 082 2244986</td>
+	</tr>
+	<tr>
+		<td><b>Sophia Travel Agency</b></td>
+		<td>D2 2/D Matina Aplaya Arcade Purok Malinawon Davao City</td>
+		<td>FATIMA BISTON</td>
+		<td>Mobile no. 09205535280</td>
+	</tr>
+	<tr>
+		<td><b>CLARV Travel </b></td>
+		<td>Dr11 Sienes Bldg., Mandug Buhangin, Davao City</td>
+		<td>CHARMAVIRLOU ARMONIA</td>
+		<td>Tel no. 082 287-8169</td>
+	</tr>
+	<tr>
+		<td><b>SouthShore Divers</b></td>
+		<td>No. 15 Garnet St. Marfori Height Davao City</td>
+		<td>EMMANUEL STA. CRUZ</td>
+		<td>Tel no 082 300-2574</td>
+	</tr>
+	<tr>
+		<td><b>Bonne Vue Travel Ventures</b></td>
+		<td>Bloc 8 Lot 10-12 Sta. Cecilia St. Cabantian Davao City</td>
+		<td>CRISTINA FRANCISCO</td>
+		<td>Tel no. 082 321-6893</td>
+	</tr>
+	<tr>
+		<td><b>JPVA HELLO WORLD TOUR, INC.</b></td>
+		<td>PNJK Compound Alfonso Angliongto Avenue Lanang, Davao City </td>
+		<td>ANGEL NIEGAS</td>
+		<td>Tel no (Damosa) 082 305-6355 (Bajada) 082 300-7662</td>
+	</tr>
+	<tr>
+		<td><b>Traveloft Travel and Tours Inc.</b></td>
+		<td>Door 7 Valgosons bldg., Va;encia Arcade, Bonifacio St., Davao City</td>
+		<td>FLOYD BASCONES</td>
+		<td>Tel no. 082 222-3562</td>
+	</tr>
+	<tr>
+		<td><b>GUARDIAN ANGEL TRAVEL & TOURS</b></td>
+		<td>unit c fairlanes bowling center f torres st. davao city</td>
+		<td>DIANA ILAYA</td>
+		<td>Tel no. 082 305-2606</td>
+	</tr>
+	<tr>
+		<td><b>DSJ BUSINESS CENTER</b></td>
+		<td>TALISAY HIGHWAY, ECOLAND DAVAO CITY</td>
+		<td>DENNIS BANDOJO</td>
+		<td>Tel no 082 286-2529</td>
+	</tr>
+	<tr>
+		<td><b>SRB EXPRESS PADALA</b></td>
+		<td>block24 lot26 phase1 deca homes indangan davao </td>
+		<td>CLAIRE SABANDAL</td>
+		<td>Tel No 082 287-6948</td>
+	</tr>
+	<tr>
+		<td><b>VGC DREAM TRAVEL AND TOURS</b></td>
+		<td>Unit 52-53 AJK 3G Corp. Bldg Country Homes</td>
+		<td>VICENTE CANONERA</td>
+		<td>Tel No.  082 321-6854</td>
+	</tr>
+	<tr>
+		<td><b>DDN TICKETING SERVICES</b></td>
+		<td>door #3 Ermelys Complex Agton St. 8025 Juction Digos Section Road Davao City </td>
+		<td>GENEVIEVE ESCOTON</td>
+		<td>Mobile: 09197884273</td>
+	</tr>
+
+</table>

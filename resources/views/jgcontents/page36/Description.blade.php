@@ -1,2 +1,75 @@
-<span style="color: rgb(0, 0, 0); font-family: arial, sans, sans-serif; white-space: pre-wrap;"><font size="3"><b>JGTTSC BRANCHES</b></font></span><br>                                                                                                                
-                                                    <div><span style="color: rgb(0, 0, 0); font-family: arial, sans, sans-serif; white-space: pre-wrap;"><font size="3"><b><br></b></font></span></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><b>PHILIPPINE AIRLINES VICTORIA PLAZA - </b></font></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2">2nd Flr. Victoria Plaza, J.P. Laurel Avenue Bajada Davao City - </font></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2">(082) 222-0785/ 224-6424</font></span><span style="color: rgb(0, 0, 0); font-family: arial, sans, sans-serif; white-space: pre-wrap;"><font size="3"><b><br></b></font></span></div><div><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b style=""><font size="2">PHILIPPINE AIRLINES GMALL OF DAVAO (BAJADA) - </font></b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2">4th Flr. Gaisano Mall of Davao, J.P. Laurel Avuenue, Bajada Davao City - </font></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2">(082) 227-8816 / 221-2798</font></span><span style="color: rgb(0, 0, 0); font-family: Calibri; font-size: 15px; text-align: center; white-space: pre-wrap;"><br></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>PHILIPPINE AIRLINES SM ECOLAND - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">3rd Flr. SM CITY Davao, Quimpo Blvd BGY. Bucana, Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">(082) 297-4773/297-1858</span></font><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><font size="2"><br></font></span></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b style="">AIR ASIA DAVAO INTL AIRPORT - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Davao Intl Airport, Phil-Japan Friendship Hwy Bgy Panacan Davao City, Davao Del Sur - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">(082) 232-8018</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b style="">PHILIPPINE AIRLINES DAVAO INTL AIRPORT - </b></span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Davao Intl Airport, Phil-Japan Friendship Hwy Bgy Panacan Davao City, Davao Del Sur - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">(082) 297-1874</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>PHILIPPINE AIRLINESTAGBILARAN AIRPORT</b> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">QM Bldg. Airport Rd. Cogon District Tagbilaran City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">(038) 501-9708</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>PHILIPPINE AIRLINES SM LANANG</b> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">053 SM Lanang Premier J.P.  Laurel Avenue Lanang Brgy. San  Antonio Agdao Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">(082) 285-7022</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>PHILIPPINE AIRLINES GMALL OF TAGUM</b> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">3rd Flr. Gaisano Mall National Hwy Brgy. Magugpo East, Tagum City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">(084) 655-0212</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>AIR ASIA VICTORIA PLAZA</b> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">2nd Flr. Victoria Plaza, J.P. Laurel Avenue Bajada Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">(082) 221-9378</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>CEBU PACIFIC GMALL OF TORIL</b> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">2nd Flr. Gaisano Mall of Toril, Toril Davao City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">(082) 324-0519</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>CEBU PACIFIC GMALL OF DIGOS</b> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">2nd Flr. Gaisano Mall of Digos, Digos City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">0925 523 1859</span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><br></span></font></div><div><font size="2"><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;"><b>AIR ASIA DOMESTIC AIRPORT</b> - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">Air Asia Sales Office,  Terminal 4, Old Domestic Road, Pasay City - </span><span style="color: rgb(0, 0, 0); font-family: Calibri; text-align: center; white-space: pre-wrap;">(02) 776-2686</span></font><span style="color: rgb(0, 0, 0); font-family: Calibri; font-size: 15px; text-align: center; white-space: pre-wrap;"><br></span></div>
+
+<table>
+	<tr>
+		<td><b>PHILIPPINE AIRLINES VICTORIA PLAZA</b></td>
+		<td>2nd Flr. Victoria Plaza, J.P. Laurel Avenue Bajada Davao City</td>
+		<td></td>
+		<td>(082) 222-0785/ 224-6424</td>
+	</tr>
+	<tr>
+		<td><b>PHILIPPINE AIRLINES GMALL OF DAVAO (BAJADA)</b></td>
+		<td>4th Flr. Gaisano Mall of Davao, J.P. Laurel Avuenue, Bajada Davao City</td>
+		<td></td>
+		<td>(082) 227-8816 / 221-2798</td>
+	</tr>
+	<tr>
+		<td><b>PHILIPPINE AIRLINES SM ECOLAND</b></td>
+		<td>3rd Flr. SM CITY Davao, Quimpo Blvd BGY. Bucana, Davao City</td>
+		<td></td>
+		<td>(082) 297-4773/297-1858</td>
+	</tr>
+	<tr>
+		<td><b>AIR ASIA DAVAO INTL AIRPORT</b></td>
+		<td>Davao Intl Airport, Phil-Japan Friendship Hwy Bgy Panacan Davao City, Davao Del Sur</td>
+		<td></td>
+		<td>(082) 232-8018</td>
+	</tr>
+	<tr>
+		<td><b>PHILIPPINE AIRLINES DAVAO INTL AIRPORT</b></td>
+		<td>Davao Intl Airport, Phil-Japan Friendship Hwy Bgy Panacan Davao City, Davao Del Sur</td>
+		<td></td>
+		<td>(082) 297-1874</td>
+	</tr>
+	<tr>
+		<td><b>PHILIPPINE AIRLINESTAGBILARAN AIRPORT</b></td>
+		<td>QM Bldg. Airport Rd. Cogon District Tagbilaran City</td>
+		<td></td>
+		<td>(038) 501-9708</td>
+	</tr>
+	<tr>
+		<td><b>PHILIPPINE AIRLINES SM LANANG</b></td>
+		<td>053 SM Lanang Premier J.P.  Laurel Avenue Lanang Brgy. San  Antonio Agdao Davao City</td>
+		<td></td>
+		<td>(082) 285-7022</td>
+	</tr>
+	<tr>
+		<td><b>PHILIPPINE AIRLINES GMALL OF TAGUM</b></td>
+		<td>3rd Flr. Gaisano Mall National Hwy Brgy. Magugpo East, Tagum City</td>
+		<td></td>
+		<td>(084) 655-0212</td>
+	</tr>
+	<tr>
+		<td><b>AIR ASIA VICTORIA PLAZA</b></td>
+		<td>2nd Flr. Victoria Plaza, J.P. Laurel Avenue Bajada Davao City</td>
+		<td></td>
+		<td>(082) 221-9378</td>
+	</tr>
+	<tr>
+		<td><b>CEBU PACIFIC GMALL OF TORIL</b></td>
+		<td>2nd Flr. Gaisano Mall of Toril, Toril Davao City</td>
+		<td></td>
+		<td>(082) 324-0519</td>
+	</tr>
+	<tr>
+		<td><b>CEBU PACIFIC GMALL OF DIGOS</b></td>
+		<td>2nd Flr. Gaisano Mall of Digos, Digos City</td>
+		<td></td>
+		<td>0925 523 1859</td>
+	</tr>
+	<tr>
+		<td><b>AIR ASIA DOMESTIC AIRPORT</b></td>
+		<td>Air Asia Sales Office,  Terminal 4, Old Domestic Road, Pasay City</td>
+		<td></td>
+		<td>(02) 776-2686</td>
+	</tr>
+</table>

@@ -937,3 +937,9 @@ section.jg-news-middle .jg-news-middle-body-location{
 	padding: 0 10px;
 	
 }
+table{
+	font-size: 10px;
+}
+table td{
+	padding: 20px;
+}

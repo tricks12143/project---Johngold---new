@@ -1,1 +1,52 @@
-<font size="2"><b>Flash Manila</b> - 125 Durian Park Old Domestic Road Pasay City - Ronald Allan Lucerna - 0917-3281925/roanldallanlucerna@gmail.com</font><div><font size="2"><br></font></div><div><font size="2"><b>Flash Ozamis</b> - Pingol St., Brgy. Tinnago Ozamis City - Harold Manzo - 0917-7079801/flashozcoperations@gmail.com</font></div><div><font size="2"><br></font></div><div><font size="2"><b>Flash Pagadian</b> - RT Lim St., Balangasan Pagadian City - Jenerine Manloza - 0917-7079816/flashpagadianoperations@gmail.com</font></div><div><font size="2"><br></font></div><div><font size="2"><b>Flash Dipolog</b> - Purok Nipa Minaog Dipolog City - Leonard Flores - 0905-6733119/flashdloperations@gmail.com</font></div><div><font size="2"><br></font></div><div><font size="2"><b>Flash Tacloban</b> - Brgy. Lumbang Li Calanipawan Tacloban City - Marcelino Militante - 0917-4839208/marcelinomilitante.flashtac@gmail.com</font></div><div><font size="2"><br></font></div><div><font size="2"><b>Flash Dumaguete</b> - Khan Commercial Arcade, Brgy. Tubtubon Nat'l. HW, Sibulan Negros Oriental - Arnel Ybaritta - 0936-5962029/flashdgtoperations@gmail.com</font></div><div><font size="2"><br></font></div><div><font size="2"><b>Flash Bacolod</b> - MNC Bldg., CL Montelibano Brgy. Villamont Bacolod City - Kevin Uypico - 0927-6228436/flashgtoperaions@gmail.com</font></div><div><font size="2"><br></font></div><div><font size="2"><b>Flash Cebu</b> - MCIAA Cargo Access Rd., Pusok Lapu Lapu City Cebu - Carlo Cabase - 0917-8473195/flashcebuoperations@gmail.com</font></div>
+
+<table>
+	<tr>
+		<td><b>FLASH MANILA</b></td>
+		<td>125 Durian Park Old Domestic Road Pasay City</td>
+		<td>Ronald Allan Lucerna</td>
+		<td>Email: ronaldallanlucerna@gmail.com , Mobile: 0917-3181925</td>
+	</tr>
+	<tr>
+		<td><b>FLASH OZAMIS</b></td>
+		<td>Pingol St., Brgy. Tinnago Ozamis City</td>
+		<td>Harold Manzo</td>
+		<td>Email: flashozcoperations@gmail.com, Mobile: 0917-7079801</td>
+	</tr>
+	<tr>
+		<td><b>FLASH PAGADIAN</b></td>
+		<td>RT Lim St., Balangasan Pagadian City</td>
+		<td>Jenerine Manloza</td>
+		<td>Email: flashpagadianoperations@gmail.com, 0917-7079816</td>
+	</tr>
+	<tr>
+		<td><b>FLASH DIPOLOG</b></td>
+		<td>Purok Nipa Minaog Dipolog City</td>
+		<td>Leonard Flores</td>
+		<td>Email: flashdploperations@gmail.com, Mobile: 0905-6733119</td>
+	</tr>
+	<tr>
+		<td><b>FLASH TACLOBAN</b></td>
+		<td>Brgy. Lumbang Li Calanipawan Tacloban City</td>
+		<td>Marcelino Militante</td>
+		<td>Email: marcelinomilitante.flashtac@gmail.com, Mobile: 0917-4839208</td>
+	</tr>
+	<tr>
+		<td><b>FLASH DUMAGUETE</b></td>
+		<td>Khan Commercial Arcade, Brgy Tubtubon Nat'l. HW, Sibulan Negros Oriental</td>
+		<td>Arnel Ybaritta</td>
+		<td>Email: flashdgtoperations@gmail.com, Mobile: 0936-5962029</td>
+	</tr>
+	<tr>
+		<td><b>FLASH BACOLOD</b></td>
+		<td>MNC Bldg., CL Montelibano Brgy. Villamont Bacolod City</td>
+		<td>Kevin Uypico</td>
+		<td>Email: flashdgtoperations@gmail.com, Mobile: 0917-6228436</td>
+	</tr>
+	<tr>
+		<td><b>FLASH CEBU</b></td>
+		<td>MCIAA Cargo Access Rd., Pusok Lapu Lapu City Cebu</td>
+		<td>Carlo Cabase</td>
+		<td>Email: flashcebuoperations@gmail.com, Mobile: 0917-8473195</td>
+	</tr>
+
+</table>
