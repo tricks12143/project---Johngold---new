@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 20, 2018 at 11:21 AM
+-- Generation Time: Jan 22, 2018 at 05:46 AM
 -- Server version: 10.1.9-MariaDB
 -- PHP Version: 5.6.15
 
@@ -166,13 +166,13 @@ CREATE TABLE `contentsubs` (
 --
 
 INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_content`, `content_show`, `content_show_pages`, `num_of_items`, `pagination`, `created_at`, `updated_at`) VALUES
-(1, 1, 1, 'Title', 'WELCOME', '', NULL, NULL, NULL, '2017-11-13 01:00:58', '2017-11-13 01:06:27'),
+(1, 1, 1, 'Title', NULL, '', NULL, NULL, NULL, '2017-11-13 01:00:58', '2018-01-21 13:43:34'),
 (2, 1, 2, 'Description', NULL, '', NULL, NULL, NULL, '2017-11-13 01:00:58', '2017-11-13 01:00:58'),
 (3, 1, 3, 'Logo', 'logo.png', '', NULL, NULL, NULL, '2017-11-13 01:00:58', '2017-11-13 01:06:50'),
 (4, 1, 4, 'Header Background', 'DSTIBldg1.jpg', '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-12-25 23:14:13'),
 (5, 1, 9, 'Navigation', 'jg_nav', '0', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-11-14 07:58:58'),
-(6, 1, 10, 'Profile-title', 'COMPANY PROFILE', '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-11-13 01:55:50'),
-(7, 1, 11, 'Profile-desc', 'Learn more about us', '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-11-27 07:18:43'),
+(6, 1, 10, 'Profile-title', 'COMPANY PROFILE', '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2018-01-21 13:43:34'),
+(7, 1, 11, 'Profile-desc', 'Learn more about us', '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2018-01-21 13:43:35'),
 (8, 1, 12, 'Profile-body', NULL, '', NULL, NULL, NULL, '2017-11-13 01:00:59', '2017-11-13 01:00:59'),
 (13, 5, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-11-15 00:14:49', '2017-11-15 00:14:49'),
 (14, 5, 3, 'Logo', 'JGTT (1).png', NULL, NULL, NULL, NULL, '2017-11-15 00:14:50', '2017-11-15 06:21:08'),
@@ -230,17 +230,17 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (74, 26, 3, 'Logo', 'JGCF (1).png', NULL, NULL, NULL, NULL, '2017-11-16 10:00:34', '2017-11-16 10:04:07'),
 (75, 26, 15, 'Company', 'JOHN GOLD CARGO FORWARDER CORP.', NULL, NULL, NULL, NULL, '2017-11-16 10:00:34', '2017-11-27 06:18:18'),
 (76, 26, 16, 'Position', 'DIRECTOR- SALES AND OPERATIONS', NULL, NULL, NULL, NULL, '2017-11-16 10:00:34', '2017-11-27 06:18:18'),
-(77, 1, 17, 'Section-four-title', 'Team', NULL, NULL, NULL, NULL, '2017-11-16 10:10:13', '2017-11-16 10:10:32'),
-(78, 1, 19, 'Section-four-description', 'Meet our amazing team.', NULL, NULL, NULL, NULL, '2017-11-16 10:10:13', '2017-11-16 10:11:17'),
-(81, 1, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-11-16 12:22:39', '2017-11-16 12:23:23'),
+(77, 1, 17, 'Section-four-title', 'Team', NULL, NULL, NULL, NULL, '2017-11-16 10:10:13', '2018-01-21 13:43:35'),
+(78, 1, 19, 'Section-four-description', 'Meet our amazing team.', NULL, NULL, NULL, NULL, '2017-11-16 10:10:13', '2018-01-21 13:43:35'),
+(81, 1, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-11-16 12:22:39', '2018-01-21 13:43:35'),
 (82, 1, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-11-16 12:22:39', '2017-11-16 12:22:39'),
 (84, 27, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-11-21 09:49:10', '2017-11-21 09:49:10'),
 (85, 27, 3, 'Logo', 'airplane-flight-ticket_318-64636.png', NULL, NULL, NULL, NULL, '2017-11-21 09:49:10', '2017-11-21 10:18:59'),
 (86, 28, 2, 'Description', NULL, NULL, NULL, NULL, NULL, '2017-11-21 09:52:01', '2017-11-21 09:52:01'),
 (87, 28, 3, 'Logo', '165055-200.png', NULL, NULL, NULL, NULL, '2017-11-21 09:52:01', '2017-11-21 10:21:07'),
 (88, 1, 23, 'Services', 'jg_services', '5', NULL, '2', 'yes', '2017-11-22 11:20:33', '2017-11-22 11:29:26'),
-(89, 1, 25, 'Services-title', 'SERVICES', NULL, NULL, NULL, NULL, '2017-11-22 11:36:22', '2017-11-22 11:36:44'),
-(90, 1, 27, 'Services-description', 'We are here to serve.', NULL, NULL, NULL, NULL, '2017-11-22 11:36:22', '2017-11-27 07:19:20'),
+(89, 1, 25, 'Services-title', 'SERVICES', NULL, NULL, NULL, NULL, '2017-11-22 11:36:22', '2018-01-21 13:43:35'),
+(90, 1, 27, 'Services-description', 'We are here to serve.', NULL, NULL, NULL, NULL, '2017-11-22 11:36:22', '2018-01-21 13:43:36'),
 (91, 5, 9, 'Navigation', 'jg_affiliation_nav', '0', NULL, '', '', '2017-11-24 00:20:24', '2017-11-27 02:51:58'),
 (94, 5, 13, 'Affiliation', 'jg_pagelist', '3', NULL, '3', 'yes', '2017-11-24 01:10:34', '2017-11-27 02:33:42'),
 (95, 5, 21, 'Contact-section-title', 'Contact Us', NULL, NULL, NULL, NULL, '2017-11-24 02:36:20', '2017-11-24 02:37:50'),
@@ -314,8 +314,8 @@ INSERT INTO `contentsubs` (`id`, `page_id`, `content_id`, `content_name`, `the_c
 (175, 30, 1, 'Title', 'CONNECT TO US', NULL, NULL, NULL, NULL, '2017-11-26 10:12:05', '2017-11-26 10:13:57'),
 (176, 30, 4, 'Header Background', 'DSTIBldg1.jpg', NULL, NULL, NULL, NULL, '2017-11-26 10:12:05', '2017-12-25 23:14:50'),
 (180, 30, 22, 'Contact-section-paragraph', NULL, NULL, NULL, NULL, NULL, '2017-11-26 10:57:18', '2017-11-26 10:57:18'),
-(181, 1, 30, 'Affiliation-title', 'Affiliate', NULL, NULL, NULL, NULL, '2017-11-27 02:28:28', '2017-11-27 02:28:41'),
-(182, 1, 31, 'Affiliation-desc', 'Meet our family', NULL, NULL, NULL, NULL, '2017-11-27 02:30:49', '2017-11-27 02:31:20'),
+(181, 1, 30, 'Affiliation-title', 'Affiliate', NULL, NULL, NULL, NULL, '2017-11-27 02:28:28', '2018-01-21 13:43:36'),
+(182, 1, 31, 'Affiliation-desc', 'Meet our family', NULL, NULL, NULL, NULL, '2017-11-27 02:30:49', '2018-01-21 13:43:36'),
 (183, 5, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 02:48:12', '2017-11-27 02:49:47'),
 (185, 6, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 02:57:27', '2017-11-27 02:57:41'),
 (186, 7, 30, 'Affiliation-title', 'Other family member', NULL, NULL, NULL, NULL, '2017-11-27 02:58:08', '2017-11-27 02:58:21'),
@@ -475,7 +475,7 @@ CREATE TABLE `pagemains` (
 --
 
 INSERT INTO `pagemains` (`page_id`, `name`, `template`, `pagetype_id`, `created_at`, `updated_at`) VALUES
-(1, 'Home', 'home', 0, '2017-11-13 01:00:40', '2017-11-15 02:05:14'),
+(1, 'Home', 'home', 0, '2017-11-13 01:00:40', '2018-01-21 13:43:33'),
 (4, 'About', 'about', 0, '2017-11-13 03:00:41', '2017-11-14 02:11:47'),
 (5, 'John Gold Travel and Tours', 'affiliation', 3, '2017-11-13 10:50:51', '2017-11-15 02:05:24'),
 (6, 'John Gold Cargo Forwarder', 'affiliation', 3, '2017-11-14 22:53:15', '2017-11-14 22:53:53'),
@@ -531,7 +531,7 @@ CREATE TABLE `pagesubs` (
 --
 
 INSERT INTO `pagesubs` (`id`, `page_id`, `page_parent_id`, `created_at`, `updated_at`) VALUES
-(1, 1, NULL, '2017-11-13 01:00:40', '2017-11-15 02:05:14'),
+(1, 1, NULL, '2017-11-13 01:00:40', '2018-01-21 13:43:34'),
 (4, 4, NULL, '2017-11-13 03:00:41', '2017-11-14 02:11:47'),
 (5, 5, 1, '2017-11-13 10:50:51', '2017-11-15 02:05:24'),
 (6, 6, 1, '2017-11-14 22:53:15', '2017-11-14 22:53:54'),
@@ -664,7 +664,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `lname`, `fname`, `mname`, `img`, `level`, `change_code`, `stat`, `ol_stat`, `name`, `email`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'admin', 'admin', 'admin', 'logo.png', 3, 'Pab4G', 'active', 'Offline', 'admin', 'johnirvinudang@gmail.com', '$2y$10$dkzvHKygYDDhGehOWEjYDuBnIO3M75EKq.cVAh0OhDfr1IiAomE8i', 'zRwdsRUse0pGCjhZ4rMuRqW7Tl0VW2AzXIX3aXvnzn4O70hZO5FSchgC9SAO', '2017-11-30 08:31:28', '2018-01-19 16:59:56');
+(1, 'admin', 'admin', 'admin', 'logo.png', 3, 'Pab4G', 'active', 'Offline', 'admin', 'johnirvinudang@gmail.com', '$2y$10$dkzvHKygYDDhGehOWEjYDuBnIO3M75EKq.cVAh0OhDfr1IiAomE8i', 'LHXItBidp3oPSFyRsaCQITHxsjHHbwPdX17jOQFcg8shynmreqqJv4bUQGu1', '2017-11-30 08:31:28', '2018-01-21 13:43:41');
 
 --
 -- Indexes for dumped tables
