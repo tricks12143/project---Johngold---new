@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 22, 2018 at 05:46 AM
+-- Generation Time: Feb 27, 2018 at 06:44 PM
 -- Server version: 10.1.9-MariaDB
 -- PHP Version: 5.6.15
 
@@ -453,7 +453,8 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 (12, '2017_11_28_184853_create_staff_table', 3),
 (13, '2017_11_29_003554_create_logs_table', 4),
 (14, '2017_12_02_190641_create_chat_msgs_table', 5),
-(15, '2017_12_03_094316_create_chatusers_table', 6);
+(15, '2017_12_03_094316_create_chatusers_table', 6),
+(16, '2018_02_27_090707_create_site_contents_table', 7);
 
 -- --------------------------------------------------------
 
@@ -607,6 +608,27 @@ CREATE TABLE `password_resets` (
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `site_contents`
+--
+
+CREATE TABLE `site_contents` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `content` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `site_contents`
+--
+
+INSERT INTO `site_contents` (`id`, `name`, `content`, `created_at`, `updated_at`) VALUES
+(1, 'favicon', 'favicon.png', '2018-02-27 01:58:37', '2018-02-27 01:58:37');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `staff`
 --
 
@@ -664,7 +686,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `lname`, `fname`, `mname`, `img`, `level`, `change_code`, `stat`, `ol_stat`, `name`, `email`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'admin', 'admin', 'admin', 'logo.png', 3, 'Pab4G', 'active', 'Offline', 'admin', 'johnirvinudang@gmail.com', '$2y$10$dkzvHKygYDDhGehOWEjYDuBnIO3M75EKq.cVAh0OhDfr1IiAomE8i', 'LHXItBidp3oPSFyRsaCQITHxsjHHbwPdX17jOQFcg8shynmreqqJv4bUQGu1', '2017-11-30 08:31:28', '2018-01-21 13:43:41');
+(1, 'admin', 'admin', 'admin', 'logo.png', 3, 'Pab4G', 'active', 'Offline', 'admin', 'johnirvinudang@gmail.com', '$2y$10$dkzvHKygYDDhGehOWEjYDuBnIO3M75EKq.cVAh0OhDfr1IiAomE8i', 'LHXItBidp3oPSFyRsaCQITHxsjHHbwPdX17jOQFcg8shynmreqqJv4bUQGu1', '2017-11-30 08:31:28', '2018-02-27 01:17:01');
 
 --
 -- Indexes for dumped tables
@@ -749,6 +771,12 @@ ALTER TABLE `password_resets`
   ADD KEY `password_resets_email_index` (`email`);
 
 --
+-- Indexes for table `site_contents`
+--
+ALTER TABLE `site_contents`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indexes for table `staff`
 --
 ALTER TABLE `staff`
@@ -810,7 +838,7 @@ ALTER TABLE `logs`
 -- AUTO_INCREMENT for table `migrations`
 --
 ALTER TABLE `migrations`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
 --
 -- AUTO_INCREMENT for table `pagemains`
 --
@@ -826,6 +854,11 @@ ALTER TABLE `pagesubs`
 --
 ALTER TABLE `pagetypes`
   MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+--
+-- AUTO_INCREMENT for table `site_contents`
+--
+ALTER TABLE `site_contents`
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 --
 -- AUTO_INCREMENT for table `staff`
 --
