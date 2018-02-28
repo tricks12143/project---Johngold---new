@@ -282,6 +282,61 @@
 				  </div>
 				
 
+
+				<div class="col-md-4">
+					<div class="panel panel-default">
+					  <div class="panel-heading">
+					  	<h5>FavIcon
+					  	<a href="#" style="float:right" data-toggle="modal" data-target="#contentmodal">
+							<i class="fa fa-plus" aria-hidden="true"></i>
+						</a>
+						</h5>
+					  </div>
+					  <div class="panel-body">
+
+					  	<form class="form-horizontal" method="POST" enctype="multipart/form-data" action="{{ url('/insertfavicon') }}">
+						{{csrf_field()}}
+						<fieldset>
+							@if(count($errors) > 0)
+								@foreach($errors->all() as $error)
+									<div class="alert alert-danger">
+										{{$error}}
+									</div>
+								@endforeach
+							@endif
+							<div class="form-group">
+						    	<label class="col-lg-1 control-label"></label>
+								<div class="col-lg-12">
+									@if(count($site_contents) > 0)
+										@foreach($site_contents->all() as $site_content)
+											@if($site_content->name == "favicon")
+								    			<img class="jg-staff-img" id="prof_img_preview" src="{{ URL::asset('img/gallery') . "/" . $site_content->content }}"/>
+								    		@endif
+								    	@endforeach
+								    @endif
+								</div>
+							</div>
+
+							<div class="form-group">
+						    	<label class="col-lg-1 control-label"></label>
+								<div class="col-lg-12">
+								    <input type="file" class="form-control" id="fav_icon" name="fav_icon">
+								</div>
+							</div>
+							
+							    
+							<div class="form-group">
+							    <div class="col-lg-10 col-lg-offset-2">
+							        <button type="submit" name="submit" class="btn btn-primary">Update</button>
+							    </div>
+							</div>
+						</fieldset>
+					</form>
+					  	
+					  </div>
+					</div>
+				</div>
+
 				
 			</div>
 

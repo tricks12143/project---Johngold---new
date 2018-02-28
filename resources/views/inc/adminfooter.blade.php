@@ -20,7 +20,18 @@
 			}
 		}
 
-		
+		function readURL(input) {
+
+			  if (input.files && input.files[0]) {
+			    var reader = new FileReader();
+
+			    reader.onload = function(e) {
+			      $('#prof_img_preview').attr('src', e.target.result);
+			    }
+
+			    reader.readAsDataURL(input.files[0]);
+			  }
+			}
 
 		$(document).ready(function () {
 		  $('#btnsubmit').on('click', function(){
@@ -29,6 +40,12 @@
 			var $input = $('#refresh');
 
 		    $input.val() == 'yes' ? location.reload(true) : $input.val('yes');
+
+		    
+
+			$("#fav_icon").change(function() {
+			  readURL(this);
+			});
 		});
 
 

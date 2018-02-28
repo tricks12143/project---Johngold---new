@@ -11,6 +11,14 @@
 	<head>
 		<title>JohnGold</title>
 		
+		@if(count($site_contents) > 0)
+			@foreach($site_contents as $site_content)
+				@if($site_content->name == "favicon")
+					<link rel="shortcut icon" type="image/png" href="{{ URL::asset('img/gallery') . "/" . $site_content->content }}"/>
+				@endif
+			@endforeach
+		@endif
+
 		<!--Bootstrap 4.0 Beta-->
 		<link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.min.css') }}">
 

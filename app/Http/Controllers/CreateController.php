@@ -15,6 +15,7 @@ use App\Chat_user;
 use App\Chat_msg;
 use App\Staff;
 use App\User;
+use App\site_content;
 use Auth;
 
 class CreateController extends Controller
@@ -73,9 +74,10 @@ class CreateController extends Controller
         $comments = Comment::all();
         $contentsubs = Contentsub::where('page_id', $pageid)->get();
         $contentsubs1 = Contentsub::all();
+        $site_contents = site_content::all();
 
         $editpermission = false;
-    	return view('home', ['articles' => $articles, 'pagemains' => $pagemains, 'pagemains1' => $pagemainss, 'comments' => $comments, 'editpermission' => $editpermission, 'contentsubs' => $contentsubs, 'contentmains' => $contentmains, 'contentsubs1' => $contentsubs1, 'chat_users' => $chat_users]);
+    	return view('home', ['articles' => $articles, 'pagemains' => $pagemains, 'pagemains1' => $pagemainss, 'comments' => $comments, 'editpermission' => $editpermission, 'contentsubs' => $contentsubs, 'contentmains' => $contentmains, 'contentsubs1' => $contentsubs1, 'chat_users' => $chat_users, 'site_contents' => $site_contents]);
     }
 
     public function dashboard(){
@@ -137,8 +139,9 @@ class CreateController extends Controller
         $contentsubs = Contentsub::where('page_id',$id)->get();
         $contentsubs1 = Contentsub::all();
         $chat_users = Chat_user::all();
+        $site_contents = site_content::all();
         $editpermission = false;
-        return view('pages', ['pagemains1' => $pagemains, 'pagemains' => $pagemainss, 'editpermission' => $editpermission, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs, 'contentsubs1' => $contentsubs1, 'chat_users' => $chat_users]);
+        return view('pages', ['pagemains1' => $pagemains, 'pagemains' => $pagemainss, 'editpermission' => $editpermission, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs, 'contentsubs1' => $contentsubs1, 'chat_users' => $chat_users, 'site_contents' => $site_contents]);
     }
 
     public function addcomment(Request $request){
@@ -234,6 +237,7 @@ class CreateController extends Controller
         $contentmains = Contentmain::all();
         $contentsubs = Contentsub::where('page_id', $id)->get();
         $users = User::all();
+        $site_contents = site_content::all();
 
         $pagesubs = Pagesub::where('page_id', $id)->get();
         $pagesubid="";
@@ -243,7 +247,7 @@ class CreateController extends Controller
 
         $pagemainsss = Pagemain::where('page_id', $pagesubid)->get();
 
-        return view('admin/editpage', ['users' => $users, 'pagemains' => $pagemains, 'pagemainss' => $pagemainss, 'pagemainsss' => $pagemainsss, 'pagetypes' => $pagetypes, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs]);
+        return view('admin/editpage', ['users' => $users, 'pagemains' => $pagemains, 'pagemainss' => $pagemainss, 'pagemainsss' => $pagemainsss, 'pagetypes' => $pagetypes, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs, 'site_contents' => $site_contents]);
     }
 
     public function editpage(Request $request, $id){
@@ -434,8 +438,9 @@ class CreateController extends Controller
         $contentsubs = Contentsub::all();
         $pagemains = Pagemain::all();
         $pagetypes = Pagetype::all();
+        $site_contents = site_content::all();
         $users = User::all();
-        return view('admin/setup', ['users' => $users, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs, 'pagetypes' => $pagetypes, 'pagemains' => $pagemains]);
+        return view('admin/setup', ['users' => $users, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs, 'pagetypes' => $pagetypes, 'pagemains' => $pagemains, 'site_contents' => $site_contents]);
     }
 
     public function insertcontent(Request $request){
@@ -1090,5 +1095,49 @@ class CreateController extends Controller
         rmdir($path);
         
         return redirect('/dashboard/newsletter')->with('info', 'Page Deleted Sucessfully');
+    }
+
+    public function insertfavicon(Request $request){
+        $embol = false;
+        $sitecons = site_content::where('name', 'favicon')->get();
+
+        if(count($sitecons) > 0){
+            $embol  = true;
+        }
+
+        if($embol){
+            $this->validate($request, [
+                'fav_icon'=>'required'
+                ]);
+            $input = $request->file('fav_icon');
+            $destinationPath = "img/gallery/"; // path to save to, has to exist and be writeable
+            $contentval = $request->file('fav_icon')->getClientOriginalName(); // original name that it was uploaded with
+            $input->move($destinationPath,$contentval); // moving the file to specified dir with the original name
+            $data = array(
+            'content'=> $contentval           
+            );
+            site_content::where('name', 'favicon')
+            ->update($data);
+        }
+        else{
+            $this->validate($request, [
+                'fav_icon'=>'required'
+                ]);
+
+            if(!empty($request->file('fav_icon'))){
+
+                $input = $request->file('fav_icon');
+                $destinationPath = "img/gallery/"; // path to save to, has to exist and be writeable
+                $contentval = $request->file('fav_icon')->getClientOriginalName(); // original name that it was uploaded with
+                $input->move($destinationPath,$contentval); // moving the file to specified dir with the original name
+
+                $sitecons = new site_content;
+                $sitecons->name = 'favicon';
+                $sitecons->content = $contentval;
+                $sitecons->save();
+            }
+        }
+
+        return redirect('/dashboard/setup')->with('infopagetype', 'Content Updated Sucessfully');
     }
 }

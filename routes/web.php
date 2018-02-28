@@ -79,7 +79,7 @@ Route::group(['middleware' => ['web']], function(){
 	Route::get('/viewcomment/{id}', ['middleware' => 'auth', 'uses' => 'CreateController@viewcomment']);
 	Route::get('/deletecomment/{id}', ['middleware' => 'auth', 'uses' => 'CreateController@deletecomment']);
 
-
+	Route::post('/insertfavicon', ['middleware' => 'auth', 'uses' => 'CreateController@insertfavicon']);
 	Route::get('/dashboard/setup', ['middleware' => 'auth', 'uses' => 'CreateController@setup']);
 	Route::post('/insertcontent', ['middleware' => 'auth', 'uses' => 'CreateController@insertcontent']);
 	Route::get('/dashboard/updatecontent/{id}', ['middleware' => 'auth', 'uses' => 'CreateController@updatecontent']);
