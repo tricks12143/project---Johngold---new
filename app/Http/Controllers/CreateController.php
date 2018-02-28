@@ -557,17 +557,18 @@ class CreateController extends Controller
         $contentsubs1 = Contentsub::all();
         $pagetypes = Pagetype::all();
         $chat_users = Chat_user::all();
+        $site_contents = site_content::all();
 
         if(empty($id)){
             $pagemainss = Pagemain::all();
             $editpermission = true;
-            return view('admin/start_edit_page', ['pagemains1' => $pagemainss, 'pagemains' => $pagemainss, 'editpermission' => $editpermission, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs, 'pagetypes' => $pagetypes, 'contentsubs1' => $contentsubs1, 'chat_users' => $chat_users]);
+            return view('admin/start_edit_page', ['pagemains1' => $pagemainss, 'pagemains' => $pagemainss, 'editpermission' => $editpermission, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs, 'pagetypes' => $pagetypes, 'contentsubs1' => $contentsubs1, 'chat_users' => $chat_users, 'site_contents' => $site_contents]);
         }
         else{
             $editpermission = true;
             $pagemains = Pagemain::where('page_id',$id)->get();
             $pagemainss = Pagemain::all();
-            return view('admin/start_edit_page', ['pagemains1' => $pagemains, 'pagemains' => $pagemainss, 'editpermission' => $editpermission, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs, 'pagetypes' => $pagetypes, 'contentsubs1' => $contentsubs1, 'chat_users' => $chat_users]);
+            return view('admin/start_edit_page', ['pagemains1' => $pagemains, 'pagemains' => $pagemainss, 'editpermission' => $editpermission, 'contentmains' => $contentmains, 'contentsubs' => $contentsubs, 'pagetypes' => $pagetypes, 'contentsubs1' => $contentsubs1, 'chat_users' => $chat_users, 'site_contents' => $site_contents]);
         }
     }
 
